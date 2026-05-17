@@ -4,6 +4,8 @@ Production-grade weather proxy built with **Flask + Flask-Limiter + requests**.
 Fetches from **Visual Crossing** (free tier), serves results through a thin REST
 API with automatic TTL cache (Redis or in-memory fallback).
 
+**Project URL:** https://github.com/trippusultan/weather-api
+
 ---
 
 ## Table of Contents
